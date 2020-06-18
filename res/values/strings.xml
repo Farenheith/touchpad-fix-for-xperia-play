@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Touchpad Activator</string>
+    <string name="txt_display">Touchpad off</string>
+    <string name="txt_pointerid">Pointerid start from 0</string>
+    <string name="txt_displayON">Touchpad ACTIVATED</string>
+    <string name="btn_display">switch touchpad behavior</string>
+    <string name="btn_appact">Activate just for this app</string>
+    <string name="btn_pointerId">Switch pointerId start</string>
+    
+</resources>
